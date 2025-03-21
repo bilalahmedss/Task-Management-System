@@ -1,5 +1,7 @@
 # Personalized Task Management System using a Priority Queue
-
+## Contributors
+- **Bilal Ahmed**
+- **Rameez Wasif**
 ## Overview
 
 The **Personalized Task Management System** is designed to help users manage their tasks efficiently by prioritizing them using a **priority queue** data structure. This system allows users to add, remove, and update tasks based on user-defined criteria, such as due date, difficulty, and importance.
