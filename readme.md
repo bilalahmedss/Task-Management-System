@@ -76,5 +76,3 @@ This project aims to create a personalized task management system that efficient
 ## Contribution
 
 This project is open for contributions! If you would like to improve this task management system, feel free to fork the repository, make your changes, and submit a **pull request**. All contributions are welcome, and we appreciate your help in improving this project.
-
-Looking forward to your contributions!
